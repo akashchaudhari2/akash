@@ -43,7 +43,7 @@
 			<li class="list-group-item"><a href="/OnlineShop/Alldata">Register</a>
 			</li>
 
-			<li></li>
+	
 
 
 
